@@ -1,16 +1,16 @@
 {
   "manifest_version": 3,
-  "name": "JavaScript Switch - JS Toggle On and Off",
-  "version": "1.0.3",
-  "description": "Developers and users can switch JavaScript ON/OFF to block vulnerable JavaScript programs and test accessibility of the website",
+  "name": "Disable JavaScript - JS Switch per site",
+  "version": "2.0.0",
+  "description": "One-click toggle to enable or disable JavaScript per website. Lightweight, fast, and private.",
   "icons": {
     "16": "icons/icon16.png",
     "48": "icons/icon48.png",
     "128": "icons/icon128.png"
   },
   "minimum_chrome_version": "88",
-  "homepage_url": "https://manikandan.co/javascript-switch-extension",
-  "permissions": ["tabs", "contentSettings"],
+  "homepage_url": "https://manikandanramar.com/projects/disable-javascript/",
+  "permissions": ["tabs", "contentSettings", "contextMenus", "storage"],
   "background": {
     "service_worker": "js/main.js"
   },

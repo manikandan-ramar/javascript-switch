@@ -2,6 +2,8 @@ Privacy Policy
 ______________
 
 The security of your personal information is important to us.
-Javascript Switch extension only uses chrome api to change the settings of javascript locally. So there is no data collected, stored or shared through online and offline.
-Switching off javascript improves your privacy, so there is no privacy issues with this extension.
-We support privacy of the users.
+Disable JavaScript (JS Switch per site) extension only uses chrome api to change the settings of
+javascript locally. The extension provides a management page to view and manage disabled sites,
+all stored locally in your browser's storage. So there is no data collected, stored or shared
+through online and offline. Switching off javascript improves your privacy, so there is no privacy
+issues with this extension. We support privacy of the users.
